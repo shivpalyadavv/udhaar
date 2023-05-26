@@ -3,12 +3,7 @@ package utils
 /*
 export TWILIO_ACCOUNT_SID= <<your SID>> && \
 export TWILIO_AUTH_TOKEN= <<your token>>
-*/
 
-/*
-Chad developers of the day
-Shivam Mishra
-*/
 // check credit limit of a user
 // bonus points for using credit card that could be redeem
 // paying on time => increase the limit
